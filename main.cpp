@@ -65,6 +65,7 @@ int main()
     cout<<"\n\nEliminarea ultimului element din stiva:\n";
     s.pop();
     s.afisare();
+    cout<<"mateighei";
 
     return 0;
 }
