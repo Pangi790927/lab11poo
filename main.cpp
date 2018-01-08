@@ -1,8 +1,6 @@
 #include <iostream>
 #include <vector>
 
-branch
-
 using namespace std;
 
 template <typename T>
@@ -67,7 +65,6 @@ int main()
     cout<<"\n\nEliminarea ultimului element din stiva:\n";
     s.pop();
     s.afisare();
-    cout<<"mateighei";
 
     return 0;
 }
