@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 
+// Comentariu ptr git
+
 template <typename Type>
 class Stack {
 public:
